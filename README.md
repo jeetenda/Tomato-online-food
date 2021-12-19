@@ -90,31 +90,20 @@ To Visit App:
 
 deployement tool used: AWS(Amazon Web Services)
 
-👤 **Akash Pathak**
 
-- Github: [@0prodigy](https://github.com/0prodigy)
-- Twitter: [@pathakprodigy](https://twitter.com/pathakprodigy)
-- Linkedin: [Akash Pathak](https://www.linkedin.com/in/akash-pathak-0796a7165)
-- Email: (pathakvikash9211@gmail.com)
 
-👤 **Manish Kumar**
+👱‍♀️ **Jitendra singh**
 
-- Github: [@Manish-kumar-DEV](https://github.com/Manish-kumar-DEV)
-- Linkedin: [manish-kumar-dev](https://www.linkedin.com/in/manish-kumar-dev/)
-- Email: (manish1771999@gmail.com)
-
-👱‍♀️ **Gargi Das**
-
-- Github: [@Gargi-123](https://github.com/Gargi-123)
-- Twitter: [@GargiDas1079419](https://twitter.com/GargiDas1079419)
-- Linkedin: [Gargi Das](https://www.linkedin.com/in/gargi-das-57701b197/)
-- Email: (dasgargi100@gmail.com)
+- Github: [@](https://github.com/G)
+- Twitter: [@](https://twitter.com/G)
+- Linkedin: [Gargi Das](https://www.linkedin.com/in/g/)
+- Email: ()
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://0prodigy.github.io/monk-arena/issues).
+Feel free to check the [issues page](https://github.com/jeetenda/Tomato-online-food).
 
 ## Show your support
 
