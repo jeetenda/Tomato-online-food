@@ -96,7 +96,7 @@ deployement tool used: AWS(Amazon Web Services)
 
 - Github: [@](https://github.com/G)
 - Twitter: [@](https://twitter.com/G)
-- Linkedin: [Gargi Das](https://www.linkedin.com/in/g/)
+- Linkedin: [Jiendra](https://www.linkedin.com/in/g/)
 - Email: ()
 
 ## 🤝 Contributing
